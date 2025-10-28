@@ -12,8 +12,13 @@
 ### 2025
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-| Adversarial Domain Prompt Tuning and Generation for Single Domain  Generalization <br><sub>Zhipeng Xu, De Cheng, Xinyang Jiang, Nannan Wang, Dongsheng Li</sub> | arXiv | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.pdf) ||
-| Adversarial Domain Prompt Tuning and Generation for Single Domain  Generalization <br><sub>Zhipeng Xu, De Cheng, Xinyang Jiang, Nannan Wang, Dongsheng Li</sub> | arXiv | [Paper](https://arxiv.org/abs/2510.13282) | [Code]() |
+| Adversarial Domain Prompt Tuning and Generation for Single Domain  Generalization <br><sub>Zhipeng Xu, De Cheng, Xinyang Jiang, Nannan Wang, Dongsheng Li</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.pdf) ||
+| Generalized Diffusion Detector: Mining Robust Features from Diffusion Models  for Domain-Generalized Detection <br><sub>Boyong He, Yuxiang Ji, Qianwen Ye, Zhuoyue Tan, Liaoni Wu</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/He_Generalized_Diffusion_Detector_Mining_Robust_Features_from_Diffusion_Models_for_CVPR_2025_paper.html)| [Code](https://github.com/heboyong/Generalized-Diffusion-Detector) |
+| PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization <br><sub>Dong Kyu Cho, Inwoo Hwang, Sanghack Lee</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Cho_PEER_Pressure_Model-to-Model_Regularization_for_Single_Source_Domain_Generalization_CVPR_2025_paper.html)| |
+|  SoMA: Singular Value Decomposed Minor Components Adaptation  for Domain Generalizable Representation Learning<br><sub></sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yun_SoMA_Singular_Value_Decomposed_Minor_Components_Adaptation_for_Domain_Generalizable_CVPR_2025_paper.html)| |
+|  <br><sub></sub> | CVPR2025 | [Paper]()| [Code]() |
+|  <br><sub></sub> | CVPR2025 | [Paper]()| [Code]() |
+|  <br><sub></sub> | CVPR2025 | [Paper]()| [Code]() |
 ## 📖 UDA
 ## 📖 SFOD
 ## 📖 Noisy Annotations

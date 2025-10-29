@@ -26,7 +26,7 @@
 |-------|--------|------|------|
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
-## 📖 SFOD
+## 📖 SFDA
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  <br><sub></sub> |  | [Paper]()| [Code]() |

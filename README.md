@@ -37,12 +37,6 @@
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  Single-Domain Generalized Object Detection in Urban Scene  via Cyclic-Disentangled Self-Distillation<br><sub>Aming Wu, Cheng Deng</sub> | CVPR2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Single-Domain_Generalized_Object_Detection_in_Urban_Scene_via_Cyclic-Disentangled_Self-Distillation_CVPR_2022_paper.html)| [Code](https://github.com/AmingWu/Single-DGOD) |
-### 2021
-| Paper | Avenue | Link | Code |
-|-------|--------|------|------|
-### 2020
-| Paper | Avenue | Link | Code |
-|-------|--------|------|------|
 
 
 ## 📖 UDA
@@ -61,6 +55,8 @@
 |-------|--------|------|------|
 |  Contrastive Mean Teacher for Domain Adaptive Object Detectors<br><sub>Shengcao Cao, Dhiraj Joshi, Liang-Yan Gui, Yu-Xiong Wang</sub> | CVPR2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Contrastive_Mean_Teacher_for_Domain_Adaptive_Object_Detectors_CVPR_2023_paper.html)| [Code](https://github.com/Shengcao-Cao/CMT) |
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
+
+
 ## 📖 SFDA
 ### 2025
 | Paper | Avenue | Link | Code |
@@ -70,13 +66,22 @@
 ### 2024
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+|  Dynamic Retraining‑Updating Mean Teacher for Source‑Free Object Detection<br><sub>Trinh Le Ba Khanh, Huy-Hung Nguyen, Long Hoang Pham, Duong Nguyen-Ngoc Tran,Jae Wook Jeon</sub> | ECCV2024 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72943-0_19)| [Code](https://github.com/lbktrinh/DRU) |
+|  Enhancing Source-Free Domain Adaptive Object  Detection with Low-confidence Pseudo Label  Distillation<br><sub>Ilhoon Yoon, Hyeongjun Kwon, Jin Kim, Junyoung Park, Hyunsung Jang , Kwanghoon Sohn</sub> | ECCV2024 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72907-2_20)| [Code](https://github.com/junia3/LPLD.) |
+|  Simplifying Source-Free Domain Adaptation for  Object Detection: Effective Self-Training  Strategies and Performance Insights<br><sub>Yan Hao, Florent Forest</sub> | ECCV2024 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72949-2_12)| [Code](https://github.com/EPFL-IMOS/simple-SFOD) |
+|  Robust Nearest Neighbors for Source-Free Domain Adaptation Under Class Distribution Shift<br><sub>Antonio Tejero-de-Pablos, Riku Togashi, Mayu Otani, Shin’ichi Satoh </sub> | ECCV2024 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-73220-1_1)| [Code](https://github.com/CyberAgentAILab/Robust_Nearest_Neighbors_SFDA-CDS) |
+|  Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions<br><sub>Xingguang Zhang, Chih-Hsien Chou</sub> |CVPR2024  | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/html/Zhang_Source-free_Domain_Adaptation_for_Video_Object_Detection_Under_Adverse_Image_CVPRW_2024_paper.html)| |
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
 ### 2023
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
+|  Decoupled Unbiased Teacher for Source-Free Domain Adaptive Medical Object Detection<br><sub>Xinyu Liu; Wuyang Li; Yixuan Yuan</sub> | IEEE2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10132405)| [Code](https://github.com/CUHK-AIM-Group/Decoupled-Unbiased-Teacher) |
+|  Instance Relation Graph Guided  Source-Free Domain Adaptive Object Detection<br><sub>Vibashan VS, Poojan Oza, Vishal M. Patel</sub> | CVPR2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/VS_Instance_Relation_Graph_Guided_Source-Free_Domain_Adaptive_Object_Detection_CVPR_2023_paper.html)| [Code](https://viudomain.github.io/irg-sfda-web/) |
+|  CIGAR: Cross-Modality Graph Reasoning for Domain Adaptive Object Detection<br><sub>Yabo Liu, Jinghua Wang, Chao Huang, Yaowei Wang, Yong Xu</sub> | CVPR2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_CIGAR_Cross-Modality_Graph_Reasoning_for_Domain_Adaptive_Object_Detection_CVPR_2023_paper.html)|  |
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
+
 ## 📖 Noisy Annotations
 ### 2025
 | Paper | Avenue | Link | Code |

@@ -17,8 +17,7 @@
 | PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization <br><sub>Dong Kyu Cho, Inwoo Hwang, Sanghack Lee</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Cho_PEER_Pressure_Model-to-Model_Regularization_for_Single_Source_Domain_Generalization_CVPR_2025_paper.html)| |
 |  SoMA: Singular Value Decomposed Minor Components Adaptation  for Domain Generalizable Representation Learning<br><sub>Seokju Yun, Seunghye Chae, Dongheon Lee, Youngmin Ro</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yun_SoMA_Singular_Value_Decomposed_Minor_Components_Adaptation_for_Domain_Generalizable_CVPR_2025_paper.html)| |
 |  Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection<br><sub>Zihao Zhang, Aming Wu, Yahong Han</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Style_Evolving_along_Chain-of-Thought_for_Unknown-Domain_Object_Detection_CVPR_2025_paper.html)| [Code](https://github.com/ZZ2490/SE-COT) |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
+|  Diffusion-based Source-biased Model for Single Domain Generalized Object Detection<br><sub>Han Jiang, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_Diffusion-based_Source-biased_Model_for_Single_Domain_Generalized_Object_Detection_ICCV_2025_paper.html)| |
 
 ### 2024
 | Paper | Avenue | Link | Code |
@@ -28,14 +27,12 @@
 |  DoubleAUG: Single-domain Generalized Object Detector in Urban via Color Perturbation and Dual-style Memory<br><sub>LEI QI, PENG DONG, TAN XIONG, HUI XUE,XIN GENG</sub> | ACMMM2024 | [Paper](https://dl.acm.org/doi/abs/10.1145/3634683)| [Code]() 
 |  Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization<br><sub>Deng Li, Aming Wu, Yaowei Wang, Yahong Han</sub> | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Prompt-Driven_Dynamic_Object-Centric_Learning_for_Single_Domain_Generalization_CVPR_2024_paper.html)| [Code](https://github.com/Daniel00008/PDOC) |
 |  Improving Single Domain-Generalized Object Detection: A Focus on  Diversification and Alignment<br><sub>Muhammad Sohail Danish, Muhammad Haris Khan, Muhammad Akhtar Munir, M. Saquib Sarfraz</sub> | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Danish_Improving_Single_Domain-Generalized_Object_Detection_A_Focus_on_Diversification_and_CVPR_2024_paper.html)| [Code](https://github.com/msohaildanish/DivAlign) |
-| Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection
- <br><sub>Yajing Liu, Shijun Zhou, Xiyao Liu, Chunhui Hao, Baojie Fan, Jiandong Tian</sub> |CVPR2024  | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Unbiased_Faster_R-CNN_for_Single-source_Domain_Generalized_Object_Detection_CVPR_2024_paper.html)||
- |  <br><sub></sub> |  | [Paper]()| [Code]() |
+| Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection<br><sub>Yajing Liu, Shijun Zhou, Xiyao Liu, Chunhui Hao, Baojie Fan, Jiandong Tian</sub> |CVPR2024  | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Unbiased_Faster_R-CNN_for_Single-source_Domain_Generalized_Object_Detection_CVPR_2024_paper.html)||
 ### 2023
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  CLIP the Gap: A Single Domain Generalization Approach for Object Detection<br><sub>Vidit Vidit, Martin Engilberge, Mathieu Salzmann</sub> | CVPR2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Vidit_CLIP_the_Gap_A_Single_Domain_Generalization_Approach_for_Object_CVPR_2023_paper.html)| [Code](https://github.com/vidit09/domaingen) |
-|  DoubleAUG: Single-domain Generalized Object Detector in Urban via Color Perturbation and Dual-style Memory<br><sub>Lei Qi, Peng Dong, Tan Xiong, Hui Xue, Xin Geng</sub> | ACM TOMM | [Paper](https://dl.acm.org/doi/abs/10.1145/3634683)| |
+|  DoubleAUG: Single-domain Generalized Object Detector in Urban via Color Perturbation and Dual-style Memory<br><sub>Lei Qi, Peng Dong, Tan Xiong, Hui Xue, Xin Geng</sub> | ACM TOMM2023 | [Paper](https://dl.acm.org/doi/abs/10.1145/3634683)| |
 ### 2022
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
@@ -49,16 +46,49 @@
 
 
 ## 📖 UDA
+### 2025
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+|   Large Self-Supervised Models Bridge the Gap in Domain Adaptive  Object Detection<br><sub>Marc-Antoine Lavoie, Anas Mahmoud, Steven L. Waslander</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lavoie_Large_Self-Supervised_Models_Bridge_the_Gap_in_Domain_Adaptive_Object_CVPR_2025_paper.html)| [Code](https://github.com/TRAILab/DINO_Teacher) |
+|  SEEN-DA: SEmantic ENtropy guided Domain-aware Attention for Domain Adaptive Object Detection<br><sub>Haochen Li, Rui Zhang, Hantao Yao, Xin Zhang, Yifan Hao, Xinkai Song, Shaohui Peng, Yongwei Zhao, Chen Zhao, Yanjun Wu, Ling Li</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_SEEN-DA_SEmantic_ENtropy_guided_Domain-aware_Attention_for_Domain_Adaptive_Object_CVPR_2025_paper.html)||
+### 2024
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
+### 2023
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+|  Contrastive Mean Teacher for Domain Adaptive Object Detectors<br><sub>Shengcao Cao, Dhiraj Joshi, Liang-Yan Gui, Yu-Xiong Wang</sub> | CVPR2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Cao_Contrastive_Mean_Teacher_for_Domain_Adaptive_Object_Detectors_CVPR_2023_paper.html)| [Code](https://github.com/Shengcao-Cao/CMT) |
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
 ## 📖 SFDA
+### 2025
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
+### 2024
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
+### 2023
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
 ## 📖 Noisy Annotations
+### 2025
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
+### 2024
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
+### 2023
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  <br><sub></sub> |  | [Paper]()| [Code]() |

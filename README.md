@@ -13,6 +13,17 @@
 - **[Noisy Annotations](#-noisy-annotations)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020)
 
+- **[SDGOD](#📖-sdgod)**
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022)
+
+- **[UDA](#📖-uda)**
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) 
+
+- **[SFDA](#📖-sfda)**
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) 
+
+- **[Noisy Annotations](#📖-noisy-annotations)**
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020)
 
 ## 📖 SDGOD
 ### 2025

@@ -1,11 +1,18 @@
 # Image-Object-Detection
 ## 🧭 Navigation
 
-- **[Awesome-AiOIR-Methods](#all-in-one-image-restoration-paper-list)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025)
+- **[SDGOD](#-sdgod)**
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022)
 
-- **[Awesome-AiOIR-Benchmarks](#all-in-one-image-restoration-performance-comparison)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;[Three Challenging Datasets](#performance-comparisons-of-aioir-models-on-three-challenging-datasets) | [Five Challenging Datasets](#performance-comparisons-of-aioir-models-on-five-challenging-datasets) | [All-Weather](#performance-comparisons-of-aioir-models-on-all-weather-datasets) | [Real-World Weather-Related](#performance-comparisons-of-aioir-models-on-real-world-weather-related-datasets) | [CDD-11](#performance-comparisons-of-aioir-models-on-cdd-11-datasets) | &nbsp;&nbsp;&nbsp;&nbsp;[FoundIR's Datasets](#performance-comparisons-of-aioir-models-on-foundirs-real-world-datasets)
+
+- **[SDGOD](#SDGOD)**
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2024) | [2025](#2025)
+  
+  - **[SDGOD](#SDGOD)**
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2024) | [2025](#2025)
+
+- **[SDGOD](#SDGOD)**
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2024) | [2025](#2025)
 
 
 ## 📖 SDGOD
@@ -99,21 +106,10 @@
 |  <br><sub></sub> |  | [Paper]()| [Code]() |
 
 ## 📖 Noisy Annotations
-### 2025
-| Paper | Avenue | Link | Code |
-|-------|--------|------|------|
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-### 2024
-| Paper | Avenue | Link | Code |
-|-------|--------|------|------|
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
 ### 2023
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes<br><sub>Di Wu, Pengfei Chen, Xuehui Yu, Guorong Li, Zhenjun Han, Jianbin Jiao</sub> | ICCV2023 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Spatial_Self-Distillation_for_Object_Detection_with_Inaccurate_Bounding_Boxes_ICCV_2023_paper.html)| [Code](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det) |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
 
 ### 2022
 | Paper | Avenue | Link | Code |

@@ -7,7 +7,7 @@
 - **[UDA](#-uda)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) 
 
-  - **[SFDA](#-sfda)**
+- **[SFDA](#-sfda)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) 
 
 - **[Noisy Annotations](#-noisy-annotations)**

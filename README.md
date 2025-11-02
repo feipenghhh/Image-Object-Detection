@@ -51,12 +51,22 @@
 |-------|--------|------|------|
 |   Large Self-Supervised Models Bridge the Gap in Domain Adaptive  Object Detection<br><sub>Marc-Antoine Lavoie, Anas Mahmoud, Steven L. Waslander</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lavoie_Large_Self-Supervised_Models_Bridge_the_Gap_in_Domain_Adaptive_Object_CVPR_2025_paper.html)| [Code](https://github.com/TRAILab/DINO_Teacher) |
 |  SEEN-DA: SEmantic ENtropy guided Domain-aware Attention for Domain Adaptive Object Detection<br><sub>Haochen Li, Rui Zhang, Hantao Yao, Xin Zhang, Yifan Hao, Xinkai Song, Shaohui Peng, Yongwei Zhao, Chen Zhao, Yanjun Wu, Ling Li</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Li_SEEN-DA_SEmantic_ENtropy_guided_Domain-aware_Attention_for_Domain_Adaptive_Object_CVPR_2025_paper.html)||
+|  Debiased Teacher for Day-to-Night Domain Adaptive Object Detection<br><sub>Yiming Cui, Liang Li, Haibing Yin, Yuhan Gao, Yaoqi Sun, Chenggang Ya</sub> |ICCV2025  | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Cui_Debiased_Teacher_for_Day-to-Night_Domain_Adaptive_Object_Detection_ICCV_2025_paper.html)| |
+|  Differential Alignment for Domain Adaptive Object Detection<br><sub>Xinyu He, Xinhui Li, Xiaojie Guo</sub> | AAAI2025 | [Paper](https://arxiv.org/abs/2412.12830)| [Code](https://github.com/EstrellaXyu/Differential-Alignment-for-DAOD) |
+|  SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems<br><sub>Manjunath D, Aniruddh Sikdar, Prajwal Gurunath, Sumanth Udupa, Suresh Sundaram</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/PBVS/html/D_SAGA_Semantic-Aware_Gray_color_Augmentation_for_Visible-to-Thermal_Domain_Adaptation_across_CVPRW_2025_paper.html)| [Code](https://github.com/airl-iisc/IndraEye) |
+|  Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment<br><sub>Yuanfan Zheng, Jinlin Wu, Wuyang Li, Zhen Chen</sub> | AAAI2025 | [Paper](https://arxiv.org/abs/2412.11443)| [Code](https://github.com/zyfone/DPA) |
+
 ### 2024<span id="uda-2024"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | Towards Unsupervised Model Selection for Domain Adaptive Object Detection <br><sub>engfu Yu, Jinhong Deng, Wen Li, Lixin Duan</sub> |NeurIPS2024  | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6b6492cd06db22bac024506e9ed0925e-Abstract-Conference.html)| [Code](https://github.com/HenryYu23/DAS) |
 |  Conflict-Alleviated Gradient Descent for Adaptive Object Detection<br><sub>Wenxu Shi, Bochuan Zheng</sub> | IJCAI2024 | [Paper](https://www.ijcai.org/proceedings/2024/0137.pdf)| [Code](https://github.com/a-shi321/CAGrad) |
 |  Revisiting Domain-Adaptive Object Detection in Adverse Weather by the Generation and Composition of High-Quality Pseudo-labels<br><sub>Rui Zhao, Huibin Yan, Shuoyao Wang</sub> | ECCV2024 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72764-1_16)| [Code]( https://github.com/iu110/GCHQ/) |
+| Improving Unsupervised Domain Adaptation: A Pseudo-candidate Set Approach <br><sub>Aveen Dayal, Rishabh Lalla, Linga Reddy Cenkeramaddi, C. Krishna Mohan, Abhinav Kumar & Vineeth N. Balasubramanian </sub> |ECCV2024  | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-73411-3_8)||
+|  Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework<br><sub>Weixi Weng, Chun Yuan</sub> | AAAI2024 | [Paper](https://arxiv.org/html/2310.15646v4)||
+|  Conflict-Alleviated Gradient Descent for Adaptive Object Detection<br><sub>Wenxu Shi, Bochuan Zheng</sub> |IJCAI2024 | [Paper](https://www.ijcai.org/proceedings/2024/0137.pdf)| [Code](https://github.com/a-shi321/CAGrad) |
+|  Stochastic Context Consistency Reasoning for Domain Adaptive Object Detection<br><sub>Yiming Cui, Liang Li, Jiehua Zhang, Chenggang Yan, Hongkui Wang, Shuai Wang, Heng Jin, Li Wu</sub> | ACM MM2024 | [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680899)| [Code](https://github.com/HDUyiming/SOCCER) |
+
 
 ### 2023<span id="uda-2023"></span>
 | Paper | Avenue | Link | Code |
@@ -67,25 +77,17 @@
 |  2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection<br><sub>Mikhail Kennerley, Jian-Gang Wang, Bharadwaj Veeravalli, Robby T. Tan</sub> | CVPR2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Kennerley_2PCNet_Two-Phase_Consistency_Training_for_Day-to-Night_Unsupervised_Domain_Adaptive_Object_CVPR_2023_paper.html)| [Code](https://github.com/Edwardwang12315/2pcnet) |
 |  Masked Retraining Teacher-Student Framework for Domain Adaptive Object Detection<br><sub>Zijing Zhao, Sitong Wei, Qingchao Chen, Dehui Li, Yifan Yang, Yuxin Peng, Yang Liu</sub> | ICCV2023 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Masked_Retraining_Teacher-Student_Framework_for_Domain_Adaptive_Object_Detection_ICCV_2023_paper.html)| [Code](https://github.com/JeremyZhao1998/MRT-release) |
 |  Class-Aware Memory Guided Unbiased Weighting for Universal Domain Adaptive Object Detection<br><sub>Qinghai Lang, Zhenwei He, Xiaowei Fu, Lei Zhang</sub> | ICCV2023 | [Paper](https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Lang_Class-Aware_Memory_Guided_Unbiased_Weighting_for_Universal_Domain_Adaptive_Object_ICCVW_2023_paper.html?utm_source=chatgpt.com)||
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
+
 
 ## 📖 SFDA
 ### 2025<span id="sfda-2025"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  Dual-Rate Dynamic Teacher for Source-Free Domain Adaptive Object Detection<br><sub>Qi He, Xiao Wu, Jun-Yan He, Shuai Li</sub> |ICCV2025  | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/He_Dual-Rate_Dynamic_Teacher_for_Source-Free_Domain_Adaptive_Object_Detection_ICCV_2025_paper.html)| [Code](https://github.com/qih96/DDT) |
-|  Revisiting Source-Free Domain Adaptation Object Detection in Thresholds<br><sub>Yuchen Dong; Chengeyang Li; Yongqiang Xie; Zhongbo Li</sub> | IEEE2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/11086372)| |
 |  SFUOD: Source-Free Unknown Object Detection<br><sub></sub> |ICCV2025  | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Park_SFUOD_Source-Free_Unknown_Object_Detection_ICCV_2025_paper.html)| [Code](https://github.com/KU-VGI/SFUOD) |
-|  Source-Free Object Detection With Detection Transformer<br><sub>Huizai Yao; Sicheng Zhao; Shuo Lu; Hui Chen; Yangyang Li; Guoping Liu</sub> | IEEE2025 | [Paper](http://ieeexplore.ieee.org/abstract/document/11164935)||
-|  Component-Coordinated and Uncertainty-Enhanced LoRA for Few-shot Source-Free Domain Adaptive Object Detection<br><sub>Xudong Yao, Hao Liu, Xiaoshan Yang </sub> | Elisevier2025 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225014596)|  |
-| Source-Free Domain Adaptation for Remote Sensing Object Detection Using Low-Confidence Pseudolabels <br><sub>Jin Kim; Junyoung Park; Hyunsung Jang; Namkoo Ha; Kwanghoon Sohn</sub> | IEEE2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10949131)||
-|  Ship Detection in SAR Images via Source-Free Domain Adaptation From Optical Image Domain<br><sub>Mingxia Zhang; Jiaxing Sun; Han Wang</sub> | IEEE2025 | [Paper](https://ieeexplore.ieee.org/abstract/document/10891040)||
-|  A Mean-Teacher Framework for Source-Free Domain Adaptive Foggy Object Detection<br><sub>Ningning Qu; Yu Sang; Xin Gao; Siman Li</sub> |IEEE2025  | [Paper](https://ieeexplore.ieee.org/abstract/document/11181748)||
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
+|  Leveraging anatomical consistency for multi-object detection in ultrasound images via source-free unsupervised domain adaptation<br><sub>Bin Pu, Xingguo Lv, Jiewen Yang, Xingbo Dong, Yiqun Lin, Shengli Li, Kenli Li, Xiaomeng Li</sub> | AAAI2025 | [Paper](https://dl.acm.org/doi/10.1609/aaai.v39i6.32700)| [Code](https://github.com/xmed-lab/AATS) |
+|  DualEnhance: External Multimodal Foundation Models Guidance and Internal Fast-Slow Teacher Regulation<br><sub>Qi He, Xiao Wu, Jun-Yan He, Wei Li, Zhaoquan Yuan</sub> | ACM MM2025 | [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755025)||
+
 ### 2024<span id="sfda-2024"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
@@ -95,15 +97,14 @@
 |  Robust Nearest Neighbors for Source-Free Domain Adaptation Under Class Distribution Shift<br><sub>Antonio Tejero-de-Pablos, Riku Togashi, Mayu Otani, Shin’ichi Satoh </sub> | ECCV2024 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-73220-1_1)| [Code](https://github.com/CyberAgentAILab/Robust_Nearest_Neighbors_SFDA-CDS) |
 |  Source-free Domain Adaptation for Video Object Detection Under Adverse Image Conditions<br><sub>Xingguang Zhang, Chih-Hsien Chou</sub> |CVPR2024  | [Paper](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/html/Zhang_Source-free_Domain_Adaptation_for_Video_Object_Detection_Under_Adverse_Image_CVPRW_2024_paper.html)| |
 |  Source-Free Domain Adaptation for YOLO Object Detection<br><sub>Simon Varailhon, Masih Aminbeidokhti, Marco Pedersoli & Eric Granger </sub> | ECCV2024 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-91672-4_14)| [Code](https://github.com/vs-cv/sf-yolo) |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
+
 ### 2023<span id="sfda-2023"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
-|  Decoupled Unbiased Teacher for Source-Free Domain Adaptive Medical Object Detection<br><sub>Xinyu Liu; Wuyang Li; Yixuan Yuan</sub> | IEEE2023 | [Paper](https://ieeexplore.ieee.org/abstract/document/10132405)| [Code](https://github.com/CUHK-AIM-Group/Decoupled-Unbiased-Teacher) |
 |  Instance Relation Graph Guided  Source-Free Domain Adaptive Object Detection<br><sub>Vibashan VS, Poojan Oza, Vishal M. Patel</sub> | CVPR2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/VS_Instance_Relation_Graph_Guided_Source-Free_Domain_Adaptive_Object_Detection_CVPR_2023_paper.html)| [Code](https://viudomain.github.io/irg-sfda-web/) |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
-
+|  Periodically Exchange Teacher-Student for Source-Free Object Detection<br><sub>Qipeng Liu, Luojun Lin, Zhifeng Shen, Zhifeng Yang</sub> |ICCV2023  | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Periodically_Exchange_Teacher-Student_for_Source-Free_Object_Detection_ICCV_2023_paper.html)| [Code](https://github.com/RainbowNebula/PETS) |
+|  Adversarial Alignment for Source Free Object Detection<br><sub>Qiaosong Chu, Shuyan Li, Guangyi Chen, Kai Li, Xiu Li</sub> | AAAI2023 | [Paper](https://arxiv.org/abs/2301.04265)||
+| Exploiting Low-confidence Pseudo-labels for Source-free Object Detection <br><sub>Zhihong Chen, Zilei Wang, Yixin Zhang</sub> | ACM MM2023 | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612273)||
 ## 📖 Noisy Annotations
 ### 2023<span id="noisy-annotations-2023"></span>
 | Paper | Avenue | Link | Code |

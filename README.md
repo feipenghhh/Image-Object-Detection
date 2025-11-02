@@ -2,10 +2,10 @@
 ## 🧭 Navigation
 
 - **[SDGOD](#-sdgod)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#sdgod-2025) | [2024](#sdgod-2024) | [2023](#sdgod-2023) | [2022](#sdgod-2022)
 
 - **[UDA](#-uda)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) 
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#uda-2025) | [2024](#2024) | [2023](#2023) 
 
 - **[SFDA](#-sfda)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) 
@@ -13,20 +13,9 @@
 - **[Noisy Annotations](#-noisy-annotations)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020)
 
-- **[SDGOD](#📖-sdgod)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022)
-
-- **[UDA](#📖-uda)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) 
-
-- **[SFDA](#📖-sfda)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#2025) | [2024](#2024) | [2023](#2023) 
-
-- **[Noisy Annotations](#📖-noisy-annotations)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020)
 
 ## 📖 SDGOD
-### 2025
+### 2025<span id="sdgod-2025"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 | Adversarial Domain Prompt Tuning and Generation for Single Domain  Generalization <br><sub>Zhipeng Xu, De Cheng, Xinyang Jiang, Nannan Wang, Dongsheng Li</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Adversarial_Domain_Prompt_Tuning_and_Generation_for_Single_Domain_Generalization_CVPR_2025_paper.pdf) ||
@@ -36,7 +25,7 @@
 |  Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection<br><sub>Zihao Zhang, Aming Wu, Yahong Han</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Style_Evolving_along_Chain-of-Thought_for_Unknown-Domain_Object_Detection_CVPR_2025_paper.html)| [Code](https://github.com/ZZ2490/SE-COT) |
 |  Diffusion-based Source-biased Model for Single Domain Generalized Object Detection<br><sub>Han Jiang, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_Diffusion-based_Source-biased_Model_for_Single_Domain_Generalized_Object_Detection_ICCV_2025_paper.html)| |
 
-### 2024
+### 2024<span id="sdgod-2024"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  G-NAS: Generalizable Neural Architecture Search for Single Domain Generalization Object Detection<br><sub>Fan Wu, Jinling Gao, Lanqing Hong, Xinbing Wang, Chenghu Zhou, Nanyang Ye</sub> | AAAI2024 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28410)| [Code](https://github.com/wufan-cse/G-NAS) |
@@ -45,19 +34,19 @@
 |  Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization<br><sub>Deng Li, Aming Wu, Yaowei Wang, Yahong Han</sub> | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Prompt-Driven_Dynamic_Object-Centric_Learning_for_Single_Domain_Generalization_CVPR_2024_paper.html)| [Code](https://github.com/Daniel00008/PDOC) |
 |  Improving Single Domain-Generalized Object Detection: A Focus on  Diversification and Alignment<br><sub>Muhammad Sohail Danish, Muhammad Haris Khan, Muhammad Akhtar Munir, M. Saquib Sarfraz</sub> | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Danish_Improving_Single_Domain-Generalized_Object_Detection_A_Focus_on_Diversification_and_CVPR_2024_paper.html)| [Code](https://github.com/msohaildanish/DivAlign) |
 | Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection<br><sub>Yajing Liu, Shijun Zhou, Xiyao Liu, Chunhui Hao, Baojie Fan, Jiandong Tian</sub> |CVPR2024  | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Unbiased_Faster_R-CNN_for_Single-source_Domain_Generalized_Object_Detection_CVPR_2024_paper.html)||
-### 2023
+### 2023<span id="sdgod-2023"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  CLIP the Gap: A Single Domain Generalization Approach for Object Detection<br><sub>Vidit Vidit, Martin Engilberge, Mathieu Salzmann</sub> | CVPR2023 | [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Vidit_CLIP_the_Gap_A_Single_Domain_Generalization_Approach_for_Object_CVPR_2023_paper.html)| [Code](https://github.com/vidit09/domaingen) |
 |  DoubleAUG: Single-domain Generalized Object Detector in Urban via Color Perturbation and Dual-style Memory<br><sub>Lei Qi, Peng Dong, Tan Xiong, Hui Xue, Xin Geng</sub> | ACM TOMM2023 | [Paper](https://dl.acm.org/doi/abs/10.1145/3634683)| |
-### 2022
+### 2022<span id="sdgod-2022"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  Single-Domain Generalized Object Detection in Urban Scene  via Cyclic-Disentangled Self-Distillation<br><sub>Aming Wu, Cheng Deng</sub> | CVPR2022 | [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_Single-Domain_Generalized_Object_Detection_in_Urban_Scene_via_Cyclic-Disentangled_Self-Distillation_CVPR_2022_paper.html)| [Code](https://github.com/AmingWu/Single-DGOD) |
 
 
 ## 📖 UDA
-### 2025
+### 2025<span id="uda-2025"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |   Large Self-Supervised Models Bridge the Gap in Domain Adaptive  Object Detection<br><sub>Marc-Antoine Lavoie, Anas Mahmoud, Steven L. Waslander</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lavoie_Large_Self-Supervised_Models_Bridge_the_Gap_in_Domain_Adaptive_Object_CVPR_2025_paper.html)| [Code](https://github.com/TRAILab/DINO_Teacher) |

@@ -11,7 +11,7 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp; [2025](#sfda-2025) | [2024](#sfda-2024) | [2023](#sfda-2023) 
 
 - **[Noisy Annotations](#-noisy-annotations)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2023](#noisy-annotations-2023) | [2022](#noisy-annotations-2022) | [2021](#noisy-annotations-2021) | [2020](#noisy-annotations-2020)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; [2024](#noisy-annotations-2024) |[2023](#noisy-annotations-2023) | [2022](#noisy-annotations-2022) | [2021](#noisy-annotations-2021) | [2020](#noisy-annotations-2020)| [2019](#noisy-annotations-2019)
 
 
 ## 📖 SDGOD
@@ -106,10 +106,20 @@
 |  Adversarial Alignment for Source Free Object Detection<br><sub>Qiaosong Chu, Shuyan Li, Guangyi Chen, Kai Li, Xiu Li</sub> | AAAI2023 | [Paper](https://arxiv.org/abs/2301.04265)||
 | Exploiting Low-confidence Pseudo-labels for Source-free Object Detection <br><sub>Zhihong Chen, Zilei Wang, Yixin Zhang</sub> | ACM MM2023 | [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612273)||
 ## 📖 Noisy Annotations
+### 2024<span id="noisy-annotations-2024"></span>
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+|  Robust Tiny Object Detection in Aerial Images amidst Label Noise<br><sub>Haoran Zhua,Chang Xua,Wen Yanga, Ruixiang Zhanga, Yan Zhangaand Gui-Song Xia</sub> | arxiv| [Paper](https://arxiv.org/pdf/2401.08056)| |
+|  Distribution-Aware Calibration for Object Detection with Noisy Bounding Boxes<br><sub>Donghao Zhou, Jialin Li, Jinpeng Li, Jiancheng Huang, Qiang Nie, Yong Liu, Bin-Bin Gao, Qiong Wang, Pheng-Ann Heng, Guangyong Chen</sub> |BMVC 2024| [Paper](https://arxiv.org/pdf/2308.12017v1)| [Code](https://github.com/Correr-Zhou/DISCO) |
+|  Identifying Label Errors in Object Detection Datasets by Loss Inspection<br><sub>Marius Schubert, Tobias Riedlinger, Karsten Kahl, Daniel Kröll, Sebastian Schoenen, Siniša Šegvić, Matthias Rottmann</sub> |WACV2024| [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Schubert_Identifying_Label_Errors_in_Object_Detection_Datasets_by_Loss_Inspection_WACV_2024_paper.html)| [Code](https://github.com/mschubert95/identifying_label_errors_in_od) |
+
+
 ### 2023<span id="noisy-annotations-2023"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes<br><sub>Di Wu, Pengfei Chen, Xuehui Yu, Guorong Li, Zhenjun Han, Jianbin Jiao</sub> | ICCV2023 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Spatial_Self-Distillation_for_Object_Detection_with_Inaccurate_Bounding_Boxes_ICCV_2023_paper.html)| [Code](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det) |
+|  Universal Noise Annotation: Unveiling the Impact of Noisy annotation on Object Detection<br><sub>Kwangrok Ryoo, Yeonsik Jo, Seungjun Lee, Mira Kim, Ahra Jo, Seung Hwan Kim, Seungryong Kim, Soonyoung Lee</sub> | 	arXiv | [Paper](https://arxiv.org/abs/2312.13822)| [Code](https://github.com/Ryoo72/UNA) |
+|  <br><sub></sub> |  | [Paper]()| [Code]() |
 
 ### 2022<span id="noisy-annotations-2022"></span>
 | Paper | Avenue | Link | Code |
@@ -119,15 +129,26 @@
 |  Robust Object Detection with Inaccurate Bounding Boxes<br><sub>Chengxin Liu, Kewei Wang, Hao Lu, Zhiguo Cao</sub> | ECCV2022 | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-20080-9_4)| [Code](https://github.com/cxliu0/OA-MIL) |
 |  Robust object detection in remote sensing imagery with noisy and sparse geo-annotations<br><sub>Maximilian Bernhard, Matthias SchubertAuthors Info , Claims</sub> | ACM GIS2022 | [Paper](https://dl.acm.org/doi/abs/10.1145/3557915.3560959)| [Code](https://github.com/mxbh/robust_object_detection) |
 |  W2N: Switching From Weak Supervision to Noisy Supervision for Object Detection<br><sub>Zitong Huang, Yiping Bao, Bowen Dong, Erjin Zhou, Wangmeng Zuo.</sub> |ECCV 2022  | [Paper](https://arxiv.org/pdf/2207.12104)| [Code](https://github.com/1170300714/w2n_wsod) |
+|  Combating noisy labels in object detection datasets<br><sub>Krystian Chachuła, Jakub Łyskawa, Bartłomiej Olber, Piotr Frątczak, Adam Popowicz, Krystian Radlak</sub> | arXiv | [Paper](https://arxiv.org/abs/2211.13993)||
 
 ### 2021<span id="noisy-annotations-2021"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  Training Robust Object Detectors From Noisy Category Labels and Imprecise Bounding Boxes<br><sub>Youjiang Xu; Linchao Zhu; Yi Yang; Fei Wu</sub> | IEEE2021 | [Paper](https://ieeexplore.ieee.org/abstract/document/9457066)||
-
+| Noisy Annotation Refinement for Object Detection <br><sub>Jiafeng Mao, Qing Yu, Yoko Yamakata, Kiyoharu Aizawa</sub> | arXiv  | [Paper](http://arxiv.org/abs/2110.10456)||
+|  Noisy Localization Annotation Refinement for Object Detection<br><sub>Jiafeng MAO, Qing YU, Kiyoharu AIZAWA</sub> | IEICE TIS 2021 | [Paper](https://globals.ieice.org/en_transactions/information/10.1587/transinf.2021EDP7026/_p)||
 ### 2020<span id="noisy-annotations-2020"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
 |  Noise-Aware Fully Webly Supervised Object Detection<br><sub>Yunhang Shen, Rongrong Ji, Zhiwei Chen, Xiaopeng Hong, Feng Zheng, Jianzhuang Liu, Mingliang Xu, Qi Tian</sub> | CVPR2020 | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Noise-Aware_Fully_Webly_Supervised_Object_Detection_CVPR_2020_paper.html)| [Code](https://github.com/shenyunhang/NA-fWebSOD) |
 |  Learning From Noisy Anchors for One-Stage Object Detection<br><sub>Hengduo Li, Zuxuan Wu, Chen Zhu, Caiming Xiong, Richard Socher, Larry S. Davis</sub> |CVPR2020  | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Learning_From_Noisy_Anchors_for_One-Stage_Object_Detection_CVPR_2020_paper.html)|  |
+|  Effect of Annotation Errors on Drone Detection With YOLOv3<br><sub>Aybora Koksal, Kutalmis Gokalp Ince, Aydin Alatan</sub> | CVPR2020 | [Paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w69/Koksal_Effect_of_Annotation_Errors_on_Drone_Detection_With_YOLOv3_CVPRW_2020_paper.html)||
+|  Noisy Localization Annotation Refinement for Object Detection<br><sub>Jiafeng MAO, Qing YU, Kiyoharu AIZAWA</sub> | IEEE2021 | [Paper](https://globals.ieice.org/en_transactions/information/10.1587/transinf.2021EDP7026/_p)||
+|  Towards Noise-resistant Object Detection with Noisy Annotations<br><sub>Junnan Li, Caiming Xiong, Richard Socher, Steven Hoi</sub> | arXiv | [Paper](https://arxiv.org/abs/2003.01285)|  |
+
+### 2019<span id="noisy-annotations-2019"></span>
+| Paper | Avenue | Link | Code |
+|-------|--------|------|------|
+|  Training Object Detectors With Noisy Data<br><sub>Simon Chadwick; Paul Newman</sub> | IV2019 | [Paper](https://ieeexplore.ieee.org/abstract/document/8814137)||
+|  Learning to Localize Objects with Noisy Labeled Instances<br><sub>Xiaopeng Zhang,Yang Yang,Jiashi Feng</sub> | AAAI2019 | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4957)||
 

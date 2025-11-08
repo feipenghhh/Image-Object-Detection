@@ -119,7 +119,7 @@
 |-------|--------|------|------|
 |  Spatial Self-Distillation for Object Detection with Inaccurate Bounding Boxes<br><sub>Di Wu, Pengfei Chen, Xuehui Yu, Guorong Li, Zhenjun Han, Jianbin Jiao</sub> | ICCV2023 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Spatial_Self-Distillation_for_Object_Detection_with_Inaccurate_Bounding_Boxes_ICCV_2023_paper.html)| [Code](https://github.com/ucas-vg/PointTinyBenchmark/tree/SSD-Det) |
 |  Universal Noise Annotation: Unveiling the Impact of Noisy annotation on Object Detection<br><sub>Kwangrok Ryoo, Yeonsik Jo, Seungjun Lee, Mira Kim, Ahra Jo, Seung Hwan Kim, Seungryong Kim, Soonyoung Lee</sub> | 	arXiv | [Paper](https://arxiv.org/abs/2312.13822)| [Code](https://github.com/Ryoo72/UNA) |
-|  <br><sub></sub> |  | [Paper]()| [Code]() |
+
 
 ### 2022<span id="noisy-annotations-2022"></span>
 | Paper | Avenue | Link | Code |

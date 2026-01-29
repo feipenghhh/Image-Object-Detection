@@ -24,6 +24,7 @@
 |  SoMA: Singular Value Decomposed Minor Components Adaptation  for Domain Generalizable Representation Learning<br><sub>Seokju Yun, Seunghye Chae, Dongheon Lee, Youngmin Ro</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yun_SoMA_Singular_Value_Decomposed_Minor_Components_Adaptation_for_Domain_Generalizable_CVPR_2025_paper.html)| |
 |  Style Evolving along Chain-of-Thought for Unknown-Domain Object Detection<br><sub>Zihao Zhang, Aming Wu, Yahong Han</sub> | CVPR2025 | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Style_Evolving_along_Chain-of-Thought_for_Unknown-Domain_Object_Detection_CVPR_2025_paper.html)| [Code](https://github.com/ZZ2490/SE-COT) |
 |  Diffusion-based Source-biased Model for Single Domain Generalized Object Detection<br><sub>Han Jiang, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang</sub> | ICCV2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_Diffusion-based_Source-biased_Model_for_Single_Domain_Generalized_Object_Detection_ICCV_2025_paper.html)| |
+|  Real‐time object detection method with single‐domain generalization based on YOLOv8<br><sub>Yipeng Zhou,Huaming Qian</sub> |Elisevier2025 | [Paper](https://link.springer.com/article/10.1007/s11554-024-01572-z)| |
 
 ### 2024<span id="sdgod-2024"></span>
 | Paper | Avenue | Link | Code |
@@ -34,6 +35,9 @@
 |  Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization<br><sub>Deng Li, Aming Wu, Yaowei Wang, Yahong Han</sub> | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Prompt-Driven_Dynamic_Object-Centric_Learning_for_Single_Domain_Generalization_CVPR_2024_paper.html)| [Code](https://github.com/Daniel00008/PDOC) |
 |  Improving Single Domain-Generalized Object Detection: A Focus on  Diversification and Alignment<br><sub>Muhammad Sohail Danish, Muhammad Haris Khan, Muhammad Akhtar Munir, M. Saquib Sarfraz</sub> | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Danish_Improving_Single_Domain-Generalized_Object_Detection_A_Focus_on_Diversification_and_CVPR_2024_paper.html)| [Code](https://github.com/msohaildanish/DivAlign) |
 | Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection<br><sub>Yajing Liu, Shijun Zhou, Xiyao Liu, Chunhui Hao, Baojie Fan, Jiandong Tian</sub> |CVPR2024  | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Unbiased_Faster_R-CNN_for_Single-source_Domain_Generalized_Object_Detection_CVPR_2024_paper.html)||
+| Real-time object detection method with single-domain generalization based on YOLOv8<br><sub>Yipeng Zhou & Huaming Qian</sub> |Springer2024  | [Paper](https://link.springer.com/article/10.1007/s11554-024-01572-z)||
+(https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Unbiased_Faster_R-CNN_for_Single-source_Domain_Generalized_Object_Detection_CVPR_2024_paper.html)||
+| Real-time object detection method with single-domain generalization based on YOLOv8<br><sub>Yipeng Zhou & Huaming Qian</sub> |Springer2024  | [Paper](https://link.springer.com/article/10.1007/s11554-024-01572-z)||
 ### 2023<span id="sdgod-2023"></span>
 | Paper | Avenue | Link | Code |
 |-------|--------|------|------|
